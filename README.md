@@ -36,7 +36,7 @@ managers boost profit and growth.
 ## 📈 Key Insights
 
 -   **December** is consistently the top sales month.\
--   **West region** & **Technology category** dominate performance.\
+-   **West region** & **Technology category** dominate performance.
 -   Shipping time averages **\~3--4 days**; improving speed could drive
     retention.\
 -   Loss-making sub-categories (e.g., Tables, Bookcases) need review of
@@ -48,20 +48,11 @@ managers boost profit and growth.
 
 ## 🛠️ Tech Stack
 
--   **Python**: pandas, numpy, matplotlib, seaborn\
+-   **Python**: pandas, numpy, matplotlib, seaborn
 -   **Machine Learning**: scikit-learn, XGBoost\
 -   **Time Series**: statsmodels (seasonal decomposition,
     Holt--Winters)\
 -   **Visualization**: seaborn, matplotlib, WordCloud
-
-------------------------------------------------------------------------
-
-## 📂 Repository Structure
-
-    📁 superstore-analysis
-    │── Superstore_Analysis.ipynb   # Jupyter Notebook with full analysis
-    │── README.md                   # Project documentation
-    │── Sample - Superstore.csv     # Dataset (if allowed, otherwise Kaggle link)
 
 ------------------------------------------------------------------------
 
